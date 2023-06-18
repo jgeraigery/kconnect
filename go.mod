@@ -58,7 +58,7 @@ require (
 	gopkg.in/yaml.v2 v2.3.0
 	k8s.io/apimachinery v0.19.1
 	k8s.io/cli-runtime v0.19.1
-	k8s.io/client-go v0.19.1
+	k8s.io/client-go v2.0.0+incompatible
 	k8s.io/kubectl v0.19.1 // indirect
 	sigs.k8s.io/controller-tools v0.4.0 // indirect
 	sigs.k8s.io/kubebuilder/docs/book/utils v0.0.0-20201009223647-5031c94d9175 // indirect
