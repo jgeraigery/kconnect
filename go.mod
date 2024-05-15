@@ -56,7 +56,7 @@ require (
 	gopkg.in/ini.v1 v1.62.0
 	gopkg.in/yaml.v1 v1.0.0-20140924161607-9f9df34309c0 // indirect
 	gopkg.in/yaml.v2 v2.3.0
-	k8s.io/apimachinery v0.19.1
+	k8s.io/apimachinery v0.26.10
 	k8s.io/cli-runtime v0.19.1
 	k8s.io/client-go v0.19.1
 	k8s.io/kubectl v0.19.1 // indirect
